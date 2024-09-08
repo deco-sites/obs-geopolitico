@@ -1,7 +1,8 @@
 {
   "__resolveType": "site/sections/Hero.tsx",
-  "title": "<p><strong>Bem-vindo ao Observatório Geopolítico!</strong></p>",
-  "cta": [],
-  "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/obs-geopolitico/c4318b95-0325-4518-83e4-c14ce7b715f1/Opera-Instantaneo_2024-09-07_223131_looka.com.png",
+  "title": "<p><img src=\"https://deco-sites-assets.s3.sa-east-1.amazonaws.com/obs-geopolitico/40cbfd0e-32bf-4dd1-8f41-e231545cf2ec/Opera-Instantaneo_2024-09-07_223131_looka.com.png\"></p>",
+  "cta": [
+    {}
+  ],
   "placement": "left"
 }
