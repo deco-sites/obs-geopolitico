@@ -23,7 +23,8 @@
       }
     },
     {
-      "__resolveType": "site/sections/Footer.tsx"
+      "__resolveType": "site/sections/Footer.tsx",
+      "subscribe": {}
     }
   ],
   "__resolveType": "website/pages/Page.tsx",
