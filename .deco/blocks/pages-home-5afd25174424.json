@@ -7,8 +7,8 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p>Click here to tweak this text however you want.</p>",
-      "description": "This text is entirely editable, tailor it freely."
+      "title": "<p>Bem-vindo ao Observatório Geopolítico!</p>",
+      "description": "A sua fonte para os mais diversos fatos e acontecimentos da geopolítica e relações internacionais"
     },
     {
       "__resolveType": "site/sections/MainPost.tsx",
