@@ -2,10 +2,8 @@
   "name": "collections/blog/authors/07ae63fcc4c0",
   "__resolveType": "blog/loaders/Author.ts",
   "author": {
-    "name": "Name of the Author",
-    "email": "author@deco.cx",
-    "jobTitle": "Author",
-    "company": "deco.cx",
-    "avatar": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/1527/7286de42-e9c5-4fcb-ae8b-b992eea4b78e"
+    "name": "Gabriel Santos",
+    "avatar": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/obs-geopolitico/53b1de33-6f2e-4e54-ace3-841f54a6e2e4/Opera-Instantaneo_2024-09-07_223131_looka.com.png",
+    "email": "observatoriogeopolitcobr@gmail.com"
   }
 }
