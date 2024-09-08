@@ -1,0 +1,9 @@
+{
+  "__resolveType": "htmx/sections/Deferred.tsx",
+  "sections": [],
+  "fallbacks": [],
+  "trigger": {
+    "type": "load"
+  },
+  "loading": "lazy"
+}
