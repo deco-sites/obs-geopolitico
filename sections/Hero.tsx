@@ -11,7 +11,7 @@ export interface CTA {
 export interface Props {
   /**
    * @format rich-text
-   * @default Click here to tweak this text however you want.
+   * @default Bem-vindo ao Observatório Geopolítico!
    */
   title?: string;
   description?: string;
