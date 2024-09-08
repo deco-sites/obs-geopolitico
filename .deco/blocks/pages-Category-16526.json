@@ -3,7 +3,7 @@
   "path": "/:category",
   "sections": [
     {
-      "__resolveType": "Header"
+      "__resolveType": "Preview /sections/Hero.tsx"
     },
     {
       "__resolveType": "site/sections/BlogPosts.tsx",
