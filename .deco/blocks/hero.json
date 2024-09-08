@@ -1,9 +1,8 @@
 {
   "__resolveType": "site/sections/Hero.tsx",
-  "title": "<pre><code></code></pre>",
+  "title": "<p>Bem-vindo ao Observatório Geopolítico!</p>",
   "cta": [
     {}
   ],
-  "placement": "left",
-  "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/obs-geopolitico/c4318b95-0325-4518-83e4-c14ce7b715f1/Opera-Instantaneo_2024-09-07_223131_looka.com.png"
+  "placement": "left"
 }
